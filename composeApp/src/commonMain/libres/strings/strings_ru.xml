@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Покупки</string>
+    <string name="sign_in">Войти</string>
+    <string name="new_name">Название списка</string>
+    <string name="add">Добавить список</string>
+    <string name="main_header">Главная</string>
+    <string name="add_product">Добавить продукт</string>
+    <string name="error_name">Заполните имя</string>
+    <string name="empty">Это экран-пустышка</string>
+</resources>
